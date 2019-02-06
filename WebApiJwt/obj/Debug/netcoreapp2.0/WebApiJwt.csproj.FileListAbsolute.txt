@@ -1,0 +1,12 @@
+C:\Projetos\WBA\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.csprojAssemblyReference.cache
+C:\Projetos\WBA\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.csproj.CoreCompileInputs.cache
+C:\Projetos\WBA\WebApiJwt\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projetos\WBA\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.AssemblyInfoInputs.cache
+C:\Projetos\WBA\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.AssemblyInfo.cs
+C:\Projetos\WBA\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.deps.json
+C:\Projetos\WBA\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.runtimeconfig.json
+C:\Projetos\WBA\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.runtimeconfig.dev.json
+C:\Projetos\WBA\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.dll
+C:\Projetos\WBA\WebApiJwt\bin\Debug\netcoreapp2.0\WebApiJwt.pdb
+C:\Projetos\WBA\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.dll
+C:\Projetos\WBA\WebApiJwt\obj\Debug\netcoreapp2.0\WebApiJwt.pdb
